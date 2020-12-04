@@ -5,14 +5,19 @@ layout: default
 # whoami
 
 Aspiring Penetration Tester  
-eCPPT(pending review) | eJPT | CompTIA Security+
+eCPPT(pending review) | eJPT | CompTIA Security+  
 [Twitter](https://twitter.com/WatIsYourPasswd)    
 
-# Blogs  
-Just some thoughts about previous certifications and random thoughts about infosec  
+# The site is work in progress, some links might not work.
 
-[eLearnSecurity Certified Professional Penetration Tester Review](./ecpptReview)  
-[eLearnSecurity Junior Penetration Tester Review](./ejptReview)  
+# Blogs  
+Just some thoughts about previous certifications and random thoughts about information security. 
+
+
+[eLearnSecurity Certified Professional Penetration Tester Review](./ecpptReview)
+
+[eLearnSecurity Junior Penetration Tester Review](./ejptReview)
+
 [CompTIA Security+ Review](./secPlusReview)
 
 
