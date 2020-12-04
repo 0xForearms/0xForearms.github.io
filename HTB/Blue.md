@@ -1,6 +1,6 @@
-Name: Blue
-IP:   10.10.10.40
-OS:   Windows
+Name: Blue  
+IP:   10.10.10.40  
+OS:   Windows  
 
 This one is probably going to be rather easy considering it's named Blue and EnternalBlue is a notable attack against Windows systems.  Lets jump in.
 
@@ -38,4 +38,4 @@ This exploit's pretty easy to do, which adds to the criticality of it.  Lauched 
 
 That was easy.  Lets see who we are.
 
-photo of system.
+![Bluewhoami.png](./resources/Bluewhoami.png "nt system")
