@@ -34,7 +34,7 @@ I ran a Nmap scan against the host and it came back vulnerable to MS17-010, AKA 
   
 This exploit's pretty easy to do, which adds to the criticality of it.  Lauched Metasploit and ran the windows/smb/ms17_010_eternalblue module against the host.
 
-photo of exploit
+![blueMSF.png](./resources/blueMSF.png "EB MSF Module")
 
 That was easy.  Lets see who we are.
 
