@@ -14,7 +14,7 @@ eCPPT | eJPT | CompTIA Security+
 Just some thoughts about previous certifications and random thoughts about information security. 
 
 
-[eLearnSecurity Certified Professional Penetration Tester Review](./ecpptReview)
+[eLearnSecurity Certified Professional Penetration Tester Review](./ecpptReview.md)
 
 [eLearnSecurity Junior Penetration Tester Review](./ejptReview.md)
 
