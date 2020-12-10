@@ -1,4 +1,4 @@
-## eLearnSecurity Review  
+## eLearnSecurity Junior Penetration Tester Review  
 
 # Background
 eLearnSecurity/INE Junior Penetration Tester(eJPT) is their intro level course for penetration testing.  This course/exam covers all the basics of penetration testing and offers a good intro into the field.  I don't believe this course is enough to land a pentesting job as it barely scratches the surface of this field, but it's a good intro if Hack the Box(HTB) seems to daunting.  TryHackMe on the other hand probably is probably at the same level as this course in terms of difficulty.  With the INE merger/takeover you can now get the courses for free by signing up for their starter pass.  
