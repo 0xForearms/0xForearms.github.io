@@ -3,11 +3,11 @@
 # Background
 eLearnSecurity/INE Junior Penetration Tester(eJPT) is their intro level course for penetration testing.  This course/exam covers all the basics of penetration testing and offers a good intro into the field.  I don't believe this course is enough to land a pentesting job as it barely scratches the surface of this field, but it's a good intro if Hack the Box(HTB) seems to daunting.  TryHackMe on the other hand probably is probably at the same level as this course in terms of difficulty.  With the INE merger/takeover you can now get the courses for free by signing up for their starter pass.  
 
-Some of the prerequisities mentioned on their site:
+Some of the prerequisites mentioned on their site:
   - Deep understanding of network concepts
   - Simple manual web application security assessment and exploitation
   - Basic vulnerability assessment of networks
-  - Using Metasploit for perofmring simple attacks
+  - Using Metasploit for performing simple attacks
   - Web application manual exploitation through attack vectors
   - Ability to perform protocol analysis of traffic capture
   - Understanding of information gathering techniques
@@ -24,7 +24,7 @@ According to eLearn's site, after obtaining your eJTP, you should have decent kn
   - Basic vulnerability assessment of networks
   - Basic vulnerability assessment of web applications
   - Exploitation with Metasploit
-  - Simple web appliation manual exploitation
+  - Simple web application manual exploitation
   - Basic information gathering and reconnaissance
   - Simple scanning and profiling of the target
   
