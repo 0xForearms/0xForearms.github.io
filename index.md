@@ -18,7 +18,7 @@ Just some thoughts about previous certifications and random thoughts about infor
 
 [eLearnSecurity Junior Penetration Tester Review](./ejptReview)
 
-[CompTIA Security+ Review](./secPlusReview)
+[CompTIA Security+ Review](./secPlusReview.md)
 
 
 # Walkthroughs/Notes
