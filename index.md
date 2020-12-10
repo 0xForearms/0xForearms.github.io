@@ -21,7 +21,7 @@ Just some thoughts about previous certifications and random thoughts about infor
 [CompTIA Security+ Review](./secPlusReview)
 
 
-# Walkthroughs
+# Walkthroughs/Notes
 
 [Hack The Box](./HTB/)
 
