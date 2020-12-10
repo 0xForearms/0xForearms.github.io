@@ -15,7 +15,7 @@ Similar to the eJPT, one must come into this course with a number of prerequisit
   - Exploit development skills on x86 environment
   - Outstanding reporting skills
   
-Lets talk about these prerequisites shall we? I went into this course with the knowledge from the eJPT and some addtional Hack The Box/Try Hack Me rooms.  I would say I had a good understanding of all of those topics, except the exploit development skill.  That was one that I learned from the course itself as well as some extra non-course work.  Looking at Tib3ruis' Buffer Overflow Prep room on Try Hack Me.  https://tryhackme.com/room/bufferoverflowprep  Besides that, the course taught me everyone I needed to pass the exam.
+Lets talk about these prerequisites shall we? I went into this course with the knowledge from the eJPT and some addtional Hack The Box/Try Hack Me rooms.  I would say I had a good understanding of all of those topics, except the exploit development skill.  That was one that I learned from the course itself as well as some extra non-course work.  Looking at Tib3ruis' [Buffer Overflow Prep room on Try Hack Me](https://tryhackme.com/room/bufferoverflowprep).  Besides that, the course taught me everyone I needed to pass the exam.
 
 So what does this course entail:
   - Penetration testing processes and methodologies, against Windows and Linux targets
