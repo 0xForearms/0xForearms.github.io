@@ -16,7 +16,7 @@ Just some thoughts about previous certifications and random thoughts about infor
 
 [eLearnSecurity Certified Professional Penetration Tester Review](./ecpptReview)
 
-[eLearnSecurity Junior Penetration Tester Review](./ejptReview)
+[eLearnSecurity Junior Penetration Tester Review](./ejptReview.md)
 
 
 # Walkthroughs/Notes
