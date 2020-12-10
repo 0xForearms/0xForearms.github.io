@@ -5,7 +5,7 @@ layout: default
 # whoami
 
 Aspiring Penetration Tester  
-eCPPT(pending review) | eJPT | CompTIA Security+  
+eCPPT | eJPT | CompTIA Security+  
 [Twitter](https://twitter.com/WatIsYourPasswd)    
 
 # The site is work in progress, some links might not work.
