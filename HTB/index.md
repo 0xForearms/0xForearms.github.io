@@ -1,4 +1,5 @@
-This page is just a list of my HTB notes.  I wouldn't necessarily call them walkthroughs as they are just exports from Joplin.  As I make these notes, I try to convey my thoughts such as a walkthrough, but they might not be step by step.   
+This page is just a list of my HTB notes.  I wouldn't necessarily call them walkthroughs as they are just exports from Joplin.  
+
 [HTB Profile](https://www.hackthebox.eu/home/users/profile/49486)   
 
 One day I'll figure out a better way to organize these. Currently they are alphabetical from Joplin.
