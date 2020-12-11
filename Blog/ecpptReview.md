@@ -2,7 +2,7 @@
 
 # Background  
 
-eLearnSecurity/INE Certified Professional Penetration Tester(eCPPT) is their professional level course for penetration testing. This course/exam covers all the common topics of penetration testing and offers a good overview of the field. Similar to what I said in my eJPT review, I don’t believe this course is enough to land a pentesting job, as this course is just not as well known as some other certifications in the field. Putting that aside, I feel like this course and exam has benefited me greatly in terms of knowledge regarding all areas of penetration testing.  
+eLearnSecurity/INE Certified Professional Penetration Tester(eCPPT) is their professional level course for penetration testing. This course/exam covers all the common topics of penetration testing and offers a good overview of the field. Similar to what I said in my eJPT review, I don’t believe this course is enough to land a pentesting job, as this course is just not as well known as some other certifications in the field. Putting that aside, I feel like this course and exam benefited me greatly in terms of knowledge regarding all areas of penetration testing.  
 
 Similar to the eJPT, one must come into this course with a number of prerequisites:  
   - Understanding a letter of engagement and the basics related to a penetration testing engagement
@@ -15,7 +15,7 @@ Similar to the eJPT, one must come into this course with a number of prerequisit
   - Exploit development skills on x86 environment
   - Outstanding reporting skills
   
-Lets talk about these prerequisites shall we? I went into this course with the knowledge from the eJPT and some additional Hack The Box/Try Hack Me rooms.  I would say I had a good understanding of all of those topics, except the exploit development skill.  That was one that I learned from the course itself as well as some extra non-course work.  Looking at Tib3ruis' [Buffer Overflow Prep room on Try Hack Me](https://tryhackme.com/room/bufferoverflowprep).  Besides that, the course taught me everyone I needed to pass the exam.
+Lets talk about these prerequisites shall we? I went into this course with the knowledge from the eJPT and some additional Hack The Box/Try Hack Me rooms.  I would say I had a good understanding of all of those topics, except the exploit development skill.  That was one that I learned from the course itself as well as some extra non-course work.  Looking at Tib3ruis' [Buffer Overflow Prep room on Try Hack Me](https://tryhackme.com/room/bufferoverflowprep).  Besides that, the course taught me everything I needed to pass the exam.
 
 So what does this course entail:
   - Penetration testing processes and methodologies, against Windows and Linux targets
@@ -39,13 +39,13 @@ Similar to my eJPT lab experience, I was able to do all the labs with minimal is
 Unlike the eJPT lab, this one was a full on mock pentest.  You get a letter of engagement with the scope and other information, then you have 7 days of access to the exam network, then an additional 7 days to write up the report.  I see everyone breaking their exam down by days, so I'm going to do that as well.  I took the exam back in November, so bear with me, the details might be fuzzy.
 
 ### Day 1  
-Kicked off the exam at 0900 or so and read the letter of engagement.  A few minute later I started the initial network scan and started working on what I discovered.  Found some avenues of attack so I dug into them.  I don't have the exact time frame, but I know I gained access to my first system just before lunch.  After my lunch break, I quickly escalated up to root/system.  Without too many details, I was able to gain access to my second and eventually third system before I broke for dinner/rest.
+Kicked off the exam at 0900 or so and read the letter of engagement.  A few minutes later I started the initial network scan and started working on what I discovered.  Found some avenues of attack so I dug into them.  I don't have the exact time frame, but I know I gained access to my first system just before lunch.  After my lunch break, I quickly escalated up to root/system.  Without too many details, I was able to gain access to my second and eventually third system before I broke for dinner/rest.
 
 ### Day 2  
 Kicked off this day with access to a few systems, but I wanted more.  I don't have many time stamps from this day, but I know by mid morning I had completed the buffer overflow machine(pretty sure it's public knowledge this exists).  After digging around for a bit, I gained access to another system in the afternoon.  Unfortunately this was just a low level user and I was getting stuck.  I decided to break for dinner and some rest.  Figured I had 7 total days and it was just day 2.
 
 ### Day 3
-I woke up with an idea on how to priv esc.  I roughly how to do it, I just couldn't get it to work last night.  I tried what I thought would work, and it worked.  I gained root/system access to this machine, which was also the overall goal of the test, as defined in the letter of engagement.  I spent the rest of this day writing the report, ensuring I had everything I need and submitted it before bed.
+I woke up with a new idea on how to priv esc.  I had an idea of what to do, I just couldn't get it to work last night, so I tried my new idea, and it worked.  I gained root/system access to this machine, which was also the overall goal of the test, as defined in the letter of engagement.  I spent the rest of the day writing the report, ensuring I had everything I needed and submitted it before bed.
 
 I received the passing email roughly 20 business days after I submitted it.  They said up to 30, and I was in no rush for the certification so this didn't bother me any.
 
