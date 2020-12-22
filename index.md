@@ -18,6 +18,6 @@ Just some thoughts about previous certifications and random thoughts about infor
 
 # Walkthroughs/Notes
 
-[Hack The Box](https://github.com/WatIsYourPasswd/HTB/)
+[Hack The Box](./HTB/)
 
 [Miscellaneous](./Misc)
