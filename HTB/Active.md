@@ -3,7 +3,8 @@ OS:   Windows
 IP:   10.10.10.100  
 
 Started off with an nmap scan.  I appeared to have ran the below snippet but my screenshot missed it.  
-  sudo nmap -Pn -vv -sV -oN nmap/initial 10.10.10.100
+    
+    sudo nmap -Pn -vv -sV -oN nmap/initial 10.10.10.100
 
 ![ActiveNmap.png](./resources/active/ActiveNmap.png)
 
