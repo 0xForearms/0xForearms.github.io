@@ -28,15 +28,15 @@ Now since the account is SVC_TGS, I'm thinking it's a service account and has so
 
 So from here we use Impacket's GetUserSPNs.py to enumerate additional users.
 
-![ActiveUserSPN.png](./resources/ActiveUserSPN.png).
+![ActiveUserSPN.png](./resources/ActiveUserSPN.png)
 
 Looks like I'm getting a clock skew issue.  Went on a side tangent to fix that and we re-ran it.
 
-![ActiveUserSPN2.png](./resources/ActiveUserSPN2.png).
+![ActiveUserSPN2.png](./resources/ActiveUserSPN2.png)
 
 Looks like we got a hash for an account called 'Administrator'.  That sounds promising.  Lets see if John can tackle this.  
 
-![Activejohn.png](./resources/Activejohn.png).
+![Activejohn.png](./resources/Activejohn.png)
 
 Sweet!  Got another password.  However I'm not done enumerating some things.  I just want to re-check SMB with the SVC account creds we have.
 
