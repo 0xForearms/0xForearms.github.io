@@ -8,18 +8,18 @@ Just a normal nmap scan. Only has port 80 open.
 
 Interesting page, nothing much. Running Nikto/Gobuster to see if we can find anything.
 
-Nikto said it's an asp.net page
+Nikto said it's an asp.net page  
 ![](./resources/bounty/26f0bdf1515d2da8ff42845484b433ee.png)
 
-restarting gobuster with asp/aspx extensions.
+restarting gobuster with asp/aspx extensions.  
 ![](./resources/bounty/3a9cb74ac600a3884acea741184cf618.png)
 
-Couple of interesting pages. Lets check out transfer.aspx
+Couple of interesting pages. Lets check out transfer.aspx  
 
-Looks like a file upload. Lets try to upload a shell.
+Looks like a file upload. Lets try to upload a shell.  
 ![](./resources/bounty/6415134b886ea6f091101451180e7834.png)
 
-Looks like my asp/x files don't upload..
+Looks like my asp/x files don't upload..  
 ![](./resources/bounty/47eac27f1d655acbf2a723051610afec.png)
 
 I searched how to bypass an aspx file upload and the first result was promising
