@@ -14,13 +14,13 @@ ssh and webserver, lets look at the webserver
 quick check of robots.txt and secret.txt, robots was nothing, but secret was something.
 ![](./resources/curling/871f29c4e7749640045758a89dfe79e5.png)
 
-Lets try base64 first
+Lets try base64 first  
 ![](./resources/curling/27472f277150709bf303f15686e791f4.png)
 
 Hmm, that looks like a password. Looking at the homepage, one of the articles if signed with 'floris'. Lets try it.
 ![](./resources/curling/ba4c04e374b892cc99ffacb8f8b85a1e.png
 
-we're in
+we're in  
 ![](./resources/curling/451917e9b41b4047a8d07c78a5473086.png)
 kinda..
 
@@ -41,14 +41,14 @@ within the home directory of floris we found a 'password_backup'
 ![](./resources/curling/9fca8ed53b13776b0f1097a7ccf5fa4e.png)
 
 looks to be a hexdump of something. After some messing around
-![](./resources/curling/66763b6ce40f34a43ca5fffe20fa7160.png)
-eventually got to
+![](./resources/curling/66763b6ce40f34a43ca5fffe20fa7160.png)  
+eventually got to  
 ![](./resources/curling/d5fde11a2937ba221f3ce59b16b2aadd.png)
 
-That sure looks like a password
+That sure looks like a password  
 ![](./resources/curling/b477448f8ea9136bd36d113a5d67614c.png)
 
-And we've got user/user.txt
+And we've got user/user.txt  
 ![](./resources/curling/91e5718ab006e9141c9694ad47d19dcc.png)
 
 Within his home directory there are a couple of interesting files
