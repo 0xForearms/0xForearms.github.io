@@ -4,7 +4,7 @@ This page is just a list of my HTB notes.  I wouldn't necessarily call them walk
 
 One day I'll figure out a better way to organize these. Currently they are alphabetical from Joplin.
 
-1. ![Active](./resources/active/Active.md)  
+1. ![Active](./resources/active/index.md)  
 2. [Artic](./resources/artic/Artic.md)  
 3. [Bashed](./resources/bashed/Bashed.md)  
 4. [Beep](./resources/beep/Beep.md)  
