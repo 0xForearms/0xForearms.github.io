@@ -1,6 +1,6 @@
-Curling
-10.10.10.150
-Linux
+Name: Curling  
+OS: Linux  
+IP: 10.10.10.150  
 
 Started off with an nmap scan
     
