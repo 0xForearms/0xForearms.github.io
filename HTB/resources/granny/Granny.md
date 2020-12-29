@@ -36,28 +36,28 @@ From what I remember of this machine, it was pretty much the same as Grandpa.  S
     Nmap done: 1 IP address (1 host up) scanned in 20.33 seconds
 
 So lets get started with port 80. Same msf module as grandpa    
-![](./resources/granny/6c792244599d991c902a7639b37e28a0.png)  
+![](./6c792244599d991c902a7639b37e28a0.png)  
 
 have a user shell  
 
-![](./resources/granny/f5ef476b9e7fa0f99283aaace6f5beee.png)  
+![](./f5ef476b9e7fa0f99283aaace6f5beee.png)  
 
 same migration process, background, local exploit suggester.  
 
-![](./resources/granny/69e69310be8f049d48b35102276bc03a.png)  
+![](./69e69310be8f049d48b35102276bc03a.png)  
 
 started with ms14-058, tried it a few times, no luck.  
 
-![](./resources/granny/251e8766ad38464babbd8fefe20b7846.png)  
+![](./251e8766ad38464babbd8fefe20b7846.png)  
 
 Trying ms14_070 next.  
 
-![](./resources/granny/af2541060a98c6611cbc54fb52babb45.png)  
+![](./af2541060a98c6611cbc54fb52babb45.png)  
 
 said it was successful. But no new session, because the current session was used. Maybe this was the case with the original exploit(ms14_058).  
 
-![](./resources/granny/84b2ed911dedaa8e4f8345337abe07ef.png)  
+![](./84b2ed911dedaa8e4f8345337abe07ef.png)  
 
 Tried it again, still didn't work, but I got system with ms14-070 and that's all that matters.  
 
-![](./resources/granny/d4ac19d5401f53be84dbb50216cd5b2d.png)  
+![](./d4ac19d5401f53be84dbb50216cd5b2d.png)  
