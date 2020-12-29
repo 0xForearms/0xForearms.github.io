@@ -1,12 +1,12 @@
-Name: Heist
-OS: Windows
-IP: 10.10.10.149
+Name: Heist  
+OS: Windows  
+IP: 10.10.10.149  
 
 Well this one is off to a good start.  I don't seem to have records of my nmap scan.  I do know that the open ports are 80,445, and 5985.  It seems as if we leverage some info found on the webserver paired with CME and Evil-WinRM to complete this machine.  So lets get started.  
 
 Looking at port 80, we find a webserver, specifically a login page.  We have no credentials, but we are able to login as a guest.  The next page appears to be a ticket system, with an interesting text file.  
 
-![](./HeistSite.png)
+![](./HeistHttp.png)
 ![](./HeistText.png)
 
 Looks like a Cisco config file, took some CCNA classes back during my community college and they are now proving to be useful.  Went ahead and cracked the hashes using an online service, something I only do for CTFs, not clients as passwords tend to be sensitive.
