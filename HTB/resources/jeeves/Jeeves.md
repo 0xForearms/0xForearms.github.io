@@ -24,10 +24,10 @@ Looks promsing, lets visit it.
 
 ![](./JeevesJenkins.png)
 
-Oh Jenkins, I've used this at work for a few automated workflows.  After some brief research of how to get a shell from Jenkins I stumbled upon [this article](.https://www.hackingarticles.in/exploiting-jenkins-groovy-script-console-in-multiple-ways/)  
+Oh Jenkins, I've used this at work for a few automated workflows.  After some brief research of how to get a shell from Jenkins I stumbled upon [this article](https://www.hackingarticles.in/exploiting-jenkins-groovy-script-console-in-multiple-ways/)  
 
-![](./JeevesJenkins2.png)
-![](./JeevesJenkins3.png)
+![](./JeevesJenins2.png)
+![](./JeevesJenins3.png)
 
 And we've gotten a shell.
 
