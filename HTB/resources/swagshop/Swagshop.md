@@ -63,5 +63,5 @@ I can run vi with a wildcard location.. I think I can exploit this somehow.
 
 ![](./1ccc6a4f6f3917f1e4c5f7f29c0f61cd.png)
 
-hit enter, and I should be root..
+hit enter, and I should be root..  
 ![](./36bb43533e8af2dd3ee7c2bc40938f18.png)
