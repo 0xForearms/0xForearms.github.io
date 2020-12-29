@@ -18,6 +18,6 @@ So we go back to port 22, also known as SSH and try the default creds for a PiHo
 
 And we're in.  Lets start off with some basic privesc/enum commands.  Specifically sudo -l since we know the password.
 
-![](./6e2c30b2f394e26fcbe1127235dba120.png.png)
+![](./6e2c30b2f394e26fcbe1127235dba120.png)
 
 Ope, and now we're root.  
