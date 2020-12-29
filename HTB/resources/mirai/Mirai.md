@@ -1,6 +1,6 @@
-Name:   Mirai
-IP:     10.10.10.48
-OS:     Linux
+Name:   Mirai  
+IP:     10.10.10.48  
+OS:     Linux  
 
 
 Another rather easy one, looking back on it, this machine appears to be that of a RaspberryPi.  Based off the name, it might also have something to do with the Marai botnet.  Anywho, lets get started.    
