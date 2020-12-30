@@ -1,6 +1,6 @@
-Name: Hawk
-OS: Linux
-IP: 10.10.10.102
+Name: Hawk  
+OS: Linux  
+IP: 10.10.10.102  
 
 Started off with a couple of nmap scans.
 
