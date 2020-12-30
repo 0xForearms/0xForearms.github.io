@@ -54,7 +54,8 @@ And now i'm guly. Tried a few quick checks and found out I can run changename.sh
 I did some digging and found this article on Seclists. Such a good site.
 https://seclists.org/fulldisclosure/2019/Apr/24
 
-![](./f4b32701735c0e7d1ac0ac622e2f3855.png)
+![](./f4b32701735c0e7d1ac0ac622e2f3855.png)  
 
-So lets add bash instead of id and see if it works.
-![](./c2e824650271189e6a25e65dd7351a6c.png)
+So lets add bash instead of id and see if it works.  
+
+![](./c2e824650271189e6a25e65dd7351a6c.png)  
