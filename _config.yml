@@ -2,3 +2,4 @@ title: WatIsYourPasswd
 description: Just a basic webpage to showcase some of my projects and accomplishments.
 google_analytics:
 theme: jekyll-theme-hacker
+baseurl: https://github.com/WatIsYourPasswd
