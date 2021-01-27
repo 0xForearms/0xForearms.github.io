@@ -20,6 +20,5 @@ Just some thoughts about previous certifications and random thoughts about infor
 
 [Hack The Box](./HTB/)
 
-[Reverse Shell/Payload Cheatsheet](./RevShellCS.md)
+[Reverse Shell/Payload Cheatsheet](./misc/RevShellCS.md)
 
-[Miscellaneous](./Misc)
