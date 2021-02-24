@@ -5,11 +5,13 @@ layout: default
 # whoami
 
 Aspiring Penetration Tester  
-eCPPT | eJPT | Security+  
+OSCP | eCPPT | eJPT | Security+  
 [Twitter](https://twitter.com/WatIsYourPasswd)    
 
 # Blogs  
-Just some thoughts about previous certifications and random thoughts about information security. 
+Just some thoughts about previous certifications and random thoughts about information security.  
+
+OSCP review, coming soon.  
 
 [eLearnSecurity Certified Professional Penetration Tester Review - 11/2020](./Blog/ecpptReview.md)
 
