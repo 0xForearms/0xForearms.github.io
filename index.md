@@ -20,6 +20,8 @@ Just some thoughts about previous certifications and random thoughts about infor
 
 OSCP review, coming soon.  
 
+Virtual Hacking Labs review, also coming soon..
+
 [eLearnSecurity Certified Professional Penetration Tester Review - 11/2020](./Blog/ecpptReview.md)
 
 [eLearnSecurity Junior Penetration Tester Review - 07/2020](./Blog/ejptReview.md)
