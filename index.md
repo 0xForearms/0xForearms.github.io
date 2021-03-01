@@ -33,3 +33,5 @@ OSCP review, coming soon.
 
 [Reverse Shell/Payload Cheatsheet](./misc/RevShellCS.md)
 
+[SQL Injection Cheatsheet](./misc/SQLI_Cheatsheet.md)
+
