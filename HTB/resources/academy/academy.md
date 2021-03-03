@@ -59,14 +59,14 @@ So this is a lot, I have no idea whats going on here, but there are a few intere
 ![](./Pasted_image_20210303153420.png)
 
 I looked around and tried a few things and didn't get anywhere, so I started googling the name of the application and exploit, and found a couple interesting things.
-https://www.exploit-db.com/exploits/47129
-https://www.rapid7.com/db/modules/exploit/unix/http/laravel_token_unserialize_exec/
-https://www.exploit-db.com/exploits/49424
+https://www.exploit-db.com/exploits/47129  
+https://www.rapid7.com/db/modules/exploit/unix/http/laravel_token_unserialize_exec/  
+https://www.exploit-db.com/exploits/49424  
 
 I couldn't find the version number on the webpage, however the parameters for the Metasploit exploit seemed to require what I've got.  So maybe that'll work?  Lets see if we can avoid MSF though.
 
 I found this exploit on Github.  Reading the README.md file makes it sounds like it might work...
-https://github.com/aljavier/exploit_laravel_cve-2018-15133
+https://github.com/aljavier/exploit_laravel_cve-2018-15133  
 
 Looks like it needs the URL and the API key.
 
@@ -88,7 +88,7 @@ Well, that didn't work...
 
 ![](./Pasted_image_20210303154831.png)
 
-If only I had a reverse shell cheatsheet...(https://watisyourpasswd.github.io/misc/RevShellCS.html)
+If only I had a ![reverse shell cheatsheet](https://watisyourpasswd.github.io/misc/RevShellCS.html)
 
 ![](./Pasted_image_20210303155014.png)
 
