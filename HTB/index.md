@@ -4,6 +4,7 @@ This page is just a list of my HTB notes.  I wouldn't necessarily call them walk
 
 One day I'll figure out a better way to organize these. Currently they are alphabetical from Joplin.
 
+0. [Academy](./resources/academy/academy.md)
 1. [Active](./resources/active/index.md)  
 2. [Artic](./resources/artic/Artic.md)  
 3. [Bashed](./resources/bashed/Bashed.md)  
@@ -24,7 +25,7 @@ One day I'll figure out a better way to organize these. Currently they are alpha
 18. [Mirai](./resources/mirai/Mirai.md)    
 19. [Netmon](./resources/netmon/Netmon.md)  
 20. [Networked](./resources/networked/Networked.md)
-21. [Nibbles](./resources/nibbles/Nibbles.md)  
+21. [Nibbles](./resources/nibbles/Nibbles.md)  [Academy]./resources/academy/academy.md)
 22. [Optimum](./resources/optimum/Optimum.md) 
 23. [Postman](./resources/postman/Postman.md)
 24. [Sense](./resources/sense/Sense.md)  
