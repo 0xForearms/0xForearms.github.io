@@ -3,18 +3,10 @@ OS: Linux
 IP: 10.10.10.215
 
 This was my first box post OSCP, lets see how much i've learned.  I started off with an nmap script.
+!(./Pasted image 20210303150347.png)
 
-```
-nmap -Pn -sC -sV -oN nmap/initial 10.10.10.215
-```
-![[Pasted image 20210303150347.png]]
-
-Looks like ports 22 and 80 are open.  22 tends to be a pretty secure port, so lets jump to port 80 and review it.  While reviewing it, we're going to check the rest of the TCP ports with:
-```
-nmap -Pn -p- -oN nmap/allTCP 10.10.10.215
-```
-spoiler alert, didn't find anything of note.
-![[Pasted image 20210303150713.png]]
+Looks like ports 22 and 80 are open.  22 tends to be a pretty secure port, so lets jump to port 80 and review it.  While reviewing it, we're going to check the rest of the TCP ports. Spoiler alert, didn't find anything of note.
+!(./Pasted image 20210303150713.png)
 
 So back to port 80.  When we navigate to the IP, we get a redirect to 'academy.htb' and the page doesn't load.
 ![[Pasted image 20210303150824.png]]
