@@ -4,7 +4,7 @@ OS: Windows
 
 Started off with an nmap scan.
 
-![](./Pasted image 20210321152623.png)
+![](./"Pasted image 20210321152623.png")
 
 A few interesting ports, 53 for DNS, 389 for LDAP, 445 for SMB. Based off all these, it appears to be a domain controller.
 
