@@ -44,7 +44,7 @@ svc-alfredo:s3rvice
 
 Looks like port 47001 is running winrm, so lets connect using evil-winrm.
 
-![](./Pasted_image_20210321155437.png]]
+![](./Pasted_image_20210321155437.png)
 
 Since this is also an AD account, lets use Bloodhound to find the shortest path to DA
 
@@ -79,4 +79,4 @@ lets pass that hash and get admin/system access
 ![](./Pasted_image_20210321210058.png)
 
 and I just wanted to double check I had DA
-!(./Pasted_image_20210321210256.png)
+![](./Pasted_image_20210321210256.png)
