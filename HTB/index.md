@@ -14,7 +14,7 @@ One day I'll figure out a better way to organize these. Currently they are alpha
 7. [Bounty](./resources/bounty/Bounty.md)
 8. [Curling](./resources/curling/Curling.md)  
 9. [Devel](./resources/devel/Devel.md)  
-10. [Forest](./resouces/forest/forest.md)
+10. [Forest](./resources/forest/forest.md)
 11. [Grandpa](./resources/grandpa/Grandpa.md)  
 12. [Granny](./resources/granny/Granny.md)  
 13. [Hawk](./resources/hawk/Hawk.md)
