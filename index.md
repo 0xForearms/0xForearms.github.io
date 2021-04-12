@@ -18,9 +18,9 @@ In my free time I’m an avid CTF player as well as HTB, THM, and VulnHub partic
 # Blogs  
 Just some thoughts about previous certifications and random thoughts about information security.  
 
-OSCP review, coming soon.  
+[Offensive Security Certified Professional Review - 02/2021](./Blog/OSCPReview.md)  
 
-[Virtual Hacking Labs review - 12/2020](./Blog/VHLReview.md)
+[Virtual Hacking Labs Review - 12/2020](./Blog/VHLReview.md)
 
 [eLearnSecurity Certified Professional Penetration Tester Review - 11/2020](./Blog/ecpptReview.md)
 
