@@ -4,7 +4,7 @@ layout: default
 
 # whoami
 
-Aspiring Penetration Tester  
+Penetration Tester, forever trying to not be a skid.  
 OSCP | eCPPT | eJPT | Security+  
 [Twitter](https://twitter.com/WatIsYourPasswd)    
 
