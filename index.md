@@ -10,9 +10,9 @@ OSCP | eCPPT | OSWP | eJPT | Security+
 
 Hello there! Welcome to my Github.io Page.  
 
-This is just meant to be a simple page explaining some of the work, projects, and other assorted accomplishments I’ve completed over the years.  I'm currently a penetration tester at a security company.  Prior to that I worked as a bench technician, and eventually a service desk technitian at a regional financial institution.  During this time I finished my B.S. degree in Information Systems and started my lifelong journey to learn as much about computer security as I possibly could.  After graduating I had an opportunity to internally pivot from the service desk to a security analyst focusing on GRC work.
+This is just meant to be a simple page explaining some of the work, projects, and other assorted accomplishments I’ve completed over the years.  I'm currently a penetration tester at a security company.  Prior to that I worked as a bench technician, and eventually a service desk technitian at a regional financial institution.  During this time I finished my B.S. degree in Information Systems and started my lifelong journey to learn as much about computer security as I possibly could.  After graduating I had an opportunity to internally pivot from the Service Desk to a Security Analyst focusing on GRC work.  After putting in a couple of years doing GRC work and learning how a business functions along side security, I felt like it was time to pivot to the offensive side of security.  I studied up on those topics, got my eCPPT and OSCP and landed a job at a midsized security consulting company doing pentests full time.
 
-In my free time I’m an avid CTF player as well as HTB, THM, and VulnHub participant. 
+In my free time I’m an avid rock climber and occasional CTF, HTB, THM, and VulnHub participant. 
 
 # Blogs  
 Just some thoughts about previous certifications and random thoughts about information security.  
